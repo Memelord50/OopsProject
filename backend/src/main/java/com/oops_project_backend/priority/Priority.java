@@ -1,4 +1,4 @@
-package com.oops_project_backend;
+package com.oops_project_backend.priority;
 
 public enum Priority {
     LOW,
