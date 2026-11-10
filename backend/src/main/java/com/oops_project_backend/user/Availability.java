@@ -1,6 +1,6 @@
 package com.oops_project_backend.user;
 
-enum Availability {
+public enum Availability {
     AVAILABLE,
     UNAVAILABLE
 }
